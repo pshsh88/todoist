@@ -275,7 +275,7 @@ header {
   &__project {
     cursor: pointer;
 
-    div:nth-child(1) {
+    div.project_item {
       padding: 5px 0;
       padding-left: 10px;
       padding-right: 15px;
